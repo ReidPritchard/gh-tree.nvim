@@ -1,10 +1,15 @@
              ██████╗ ██╗  ██╗   ███╗   ██╗██╗   ██╗██╗███╗   ███╗
             ██╔════╝ ██║  ██║   ████╗  ██║██║   ██║██║████╗ ████║
             ██║  ███╗███████║   ██╔██╗ ██║██║   ██║██║██╔████╔██║
-            ██║   ██║██╔══██║   ██║╚██╗██║╚██╗ ██╔╝██║██║╚██╔╝██║ Powered by
-            ╚██████╔╝██║  ██║██╗██║ ╚████║ ╚████╔╝ ██║██║ ╚═╝ ██║ litee.nvim
+            ██║   ██║██╔══██║   ██║╚██╗██║╚██╗ ██╔╝██║██║╚██╔╝██║
+            ╚██████╔╝██║  ██║██╗██║ ╚████║ ╚████╔╝ ██║██║ ╚═╝ ██║
              ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝  ╚═══╝  ╚═╝╚═╝     ╚═╝
 
+## Forked with the intention of removing the litee dep. 
+
+Ideally it would handle various tree plugins, but I'll likely focus on neo-tree as that's what I use.
+
+---
 
 `gh.nvim`, initially, is a plugin for interactive code reviews which take place
 on the GitHub platform.
